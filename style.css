@@ -1,0 +1,38 @@
+.font-manrope {
+    font-family: 'Manrope', sans-serif;
+    color: #131318;
+}
+.text-color{
+    color: #13131899;
+}
+
+.common-btn {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem 1.5rem;
+    border-radius: 8px;
+    background: #FF4240;
+    color: #FFF;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.common-btn-mobile {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0.5rem 1rem;
+    border-radius: 8px;
+    background: #FF4240;
+    color: #FFF;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 700;
+    
+}
+
+button:hover{
+    background-color: rgb(172, 8, 167);
+}
